@@ -1,0 +1,2 @@
+export  const SELECT_EQUIPMENT = 'SELECT_EQUIPMENT'
+
